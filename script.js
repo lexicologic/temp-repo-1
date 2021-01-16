@@ -1,3 +1,3 @@
-console.log('hi!!');
+console.log('whats up!');
 
-console.info('whats up');
+console.log('hi!');
